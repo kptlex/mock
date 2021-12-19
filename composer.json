@@ -1,0 +1,17 @@
+{
+    "name": "kptlex/mock",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexandr Satyshev",
+            "email": "kptlex@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Lex\\Mock\\": "src/"
+        }
+    }
+}
